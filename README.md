@@ -7,7 +7,7 @@ Fecha: 15/05/2022
 # Introducción
 Para empezar esta tercera PEC se ha analizado los distintos casos encontrados en el *"libro de El software toma el mando, de Manovich"* y se a buscado dos referencias distintas que no se encuentran explicadas. 
 
-En esta actividad procederemos a realizar un ensayo de estos dos nuevos ejemplos:
+En esta actividad procederemos a realizar un análisis de estos dos nuevos ejemplos:
 
  - VideoMapping
  - TVE lab
