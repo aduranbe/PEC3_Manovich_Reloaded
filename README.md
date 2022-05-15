@@ -1,7 +1,7 @@
 # Pec 3 - Cultura Digital
 
 Autor: Angel Duran Bello
-Fecha 15/05/2022
+Fecha: 15/05/2022
 
 # Introducción
 Para empezar esta tercera PEC se ha analizado los distintos casos encontrados en el *"libro de El software toma el mando, de Manovich"* y se a buscado dos referencias distintas que no se encuentran explicadas. 
